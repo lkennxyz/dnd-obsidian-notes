@@ -7,8 +7,11 @@
         "id": "16a75868875ee482",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Places/Shops & Inns/Nephrekas' Knick-Knacks.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Shops & Inns/Nephrekas' Knick-Knacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +100,15 @@
   },
   "active": "16a75868875ee482",
   "lastOpenFiles": [
+    "Places/Shops & Inns/Nephrekas' Knick-Knacks.md",
+    "People/NPCs/Dredge.md",
+    "People/NPCs/Archmage Urgen Strongarm.md",
+    "People/NPCs/Callustov Deephollow (Deceased).md",
+    "People/NPCs/Lady Hemera Veninlock.md",
+    "People/NPCs/Archmage Shar Elan.md",
     "People/NPCs/Archmage Freya Laurus.md",
-    "Places/Cities/Zul'Teris.md",
-    "Places/Cities/Yerac'Shelah.md",
-    "Places/Landmarks/The Iron Passage.md",
-    "People/PCs/Flynnhorn.md",
-    "The Iron Empire.md",
-    "The Old Kingdom.md",
-    "People/Groups/The Violet Enclave.md",
-    "Places/Landmarks/Violet Citadel.md",
-    "Places/Landmarks/The Arcane Library.md"
+    "Places/Cities/Aernus.md",
+    "Places/Cities/Caminhold.md",
+    "Places/Cities/Eastwind.md"
   ]
 }
