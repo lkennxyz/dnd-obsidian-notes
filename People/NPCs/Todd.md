@@ -1,2 +1,3 @@
 tags: #NPC
-locations: [[Eastwind]]
+locations: [[Eastwind]] [[Valen's Rest]]
+relationships: [[Maggie]]

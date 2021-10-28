@@ -1,0 +1,2 @@
+tags: #Shop 
+location: [[Eastwind]]
