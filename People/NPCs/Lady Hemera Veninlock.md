@@ -1,0 +1,2 @@
+tags: #NPC
+locations: [[Dragonsreach]]
