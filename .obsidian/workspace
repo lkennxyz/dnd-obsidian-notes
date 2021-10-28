@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "16a75868875ee482",
+        "id": "d646d892fd3c4e50",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -86,25 +86,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "16a75868875ee482",
+  "active": "d646d892fd3c4e50",
   "lastOpenFiles": [
+    "People/Groups/Council of Archmages.md",
+    "Places/Landmarks/The Violet Citadel.md",
+    "People/Groups/The Violet Enclave.md",
+    "People/NPCs/Lera Vaseral.md",
+    "People/NPCs/Pyra Leith.md",
+    "People/Groups/The Amaranthine Ghosts.md",
     "People/NPCs/Archmage Freya Laurus.md",
     "Places/Cities/Zul'Teris.md",
     "Places/Cities/Yerac'Shelah.md",
-    "Places/Landmarks/The Iron Passage.md",
-    "People/PCs/Flynnhorn.md",
-    "The Iron Empire.md",
-    "The Old Kingdom.md",
-    "People/Groups/The Violet Enclave.md",
-    "Places/Landmarks/Violet Citadel.md",
-    "Places/Landmarks/The Arcane Library.md"
+    "Places/Landmarks/The Iron Passage.md"
   ]
 }

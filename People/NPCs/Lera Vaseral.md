@@ -1,3 +1,3 @@
 tags: #NPC
-locations: [[Violet Citadel]] [[New Falendrin]]
-allegiances: [[Kings Council]] 
+locations: [[The Violet Citadel]] [[New Falendrin]]
+allegiances: [[Kings Council]] [[The Violet Enclave]]

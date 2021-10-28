@@ -1,2 +1,3 @@
 tags: #Group
-locations: [[Violet Citadel]] [[New Falendrin]]
+locations: [[The Violet Citadel]] [[New Falendrin]]
+allegiances: [[The Violet Enclave]]

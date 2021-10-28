@@ -1,3 +1,3 @@
 tags: #NPC
 locations: [[Zadaris]]
-allegiances: [[Violet Citadel]]
+allegiances: [[The Violet Enclave]]

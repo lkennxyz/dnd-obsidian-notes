@@ -1,2 +1,2 @@
 tags: #Group
-locations: [[Violet Citadel]]
+locations: [[The Violet Citadel]]
